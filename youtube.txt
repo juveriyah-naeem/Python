@@ -1,0 +1,1 @@
+[{"name": "Handling API in python", "time": "27mins 24secs"}, {"name": "Webdev in one shot", "time": "3 hours"}, {"name": "Power of Python in AI", "time": "7mins 43 sec"}]
